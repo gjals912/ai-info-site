@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "ai-info-site",
   "version": "0.1.0",
   "private": true,
@@ -36,4 +37,16 @@
       "last 1 safari version"
     ]
   }
+=======
+  "name": "ai-info-summary-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+>>>>>>> bfccfccbc8b69e1fb7d97fdbc4ec0a40ff7f592c
 }
